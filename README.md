@@ -57,7 +57,9 @@ Sigue los siguientes pasos para instalar y ejecutar la app en tu máquina local:
 
 ## Pantallas
 
-![WhatsApp Image 2024-11-11 at 8 02 23 PM](<img src="https://github.com/user-attachments/assets/136f9c7a-7990-4b5b-9f29-8076cc8d07ca" alt="WhatsApp Image" width="200" height="150" />
-)
+
+![WhatsApp Image 2024-11-11 at 8 02 23 PM](https://github.com/user-attachments/assets/17fd96b6-0511-429d-b939-d9a99b7de571)
+
 ![WhatsApp Image 2024-11-11 at 8 02 23 PM (1)](https://github.com/user-attachments/assets/808f364b-7e2e-46c6-8eee-9a34f65cba61)
+
 ![WhatsApp Image 2024-11-11 at 8 02 23 PM (2)](https://github.com/user-attachments/assets/6e3ccfc7-28fe-480e-9cd2-4c80f80771b8)
